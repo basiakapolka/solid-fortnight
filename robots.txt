@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://basiakapolka.github.io/solid-fortnight
+
+# Sitemaps
+Sitemap: https://basiakapolka.github.io/solid-fortnight/sitemap.xml
